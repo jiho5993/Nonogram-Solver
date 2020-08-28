@@ -1,0 +1,21 @@
+.grid {
+    margin: 10px auto;
+}
+
+.grid .color {
+    width: 40px;
+    height: 40px;
+    background: #2f2f2f;
+    border: 3px solid #6d6d6d;
+}
+
+.grid .none-color {
+    width: 40px;
+    height: 40px;
+    border: 3px solid #6d6d6d;
+}
+
+.grid-wrapper Input {
+    margin: 2px;
+    width: 60px;
+}
